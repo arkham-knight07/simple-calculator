@@ -11,8 +11,9 @@ A clean, user-friendly calculator application built with Java Swing.
 - Visually appealing UI with color-coded buttons
 
 ## Screenshots
+<img width="358" height="520" alt="Screenshot 2025-10-20 at 12 04 53 AM" src="https://github.com/user-attachments/assets/7d2707b7-6644-4147-bbe4-c000f28943ec" />
 
-[You can add screenshots of your calculator here]
+
 
 ## Requirements
 
